@@ -10,6 +10,7 @@ import java.sql.Statement;
  */
 public class DB {
     public static void main(String[] args) {
+        //数据库连接测试
         Connection con;
         String driver="com.mysql.cj.jdbc.Driver";
         //这里我的数据库是qc1
